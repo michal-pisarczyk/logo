@@ -13,6 +13,7 @@
         </linearGradient>
         <linearGradient id="gradientOnM" x1="260" y1="453" x2="560" y2="453" gradientUnits="userSpaceOnUse">
             <stop offset="0" style="stop-color:#000000"/>
+            <stop offset=".5" style="stop-color:#333333"/>
             <stop offset="1" style="stop-color:#333333"/>
         </linearGradient>
     </defs>
