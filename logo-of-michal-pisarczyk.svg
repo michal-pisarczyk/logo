@@ -29,17 +29,17 @@
     </metadata>
     <defs>
         <linearGradient id="gradientOnP" x1="40" y1="360.5" x2="120" y2="360.5" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#ffffff"/>
-            <stop offset="1" style="stop-color:#ffffff;stop-opacity:.5"/>
+            <stop offset="0" style="stop-color:#afdde9"/>
+            <stop offset="1" style="stop-color:#afdde9;stop-opacity:.5"/>
         </linearGradient>
         <linearGradient id="gradientOnI" x1="480" y1="397.5" x2="560" y2="397.5" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#ffffff;stop-opacity:.5"/>
-            <stop offset="1" style="stop-color:#ffffff"/>
+            <stop offset="0" style="stop-color:#87cdde;stop-opacity:.5"/>
+            <stop offset="1" style="stop-color:#87cdde"/>
         </linearGradient>
         <linearGradient id="gradientOnM" x1="260" y1="453" x2="560" y2="453" gradientUnits="userSpaceOnUse">
-            <stop offset="0" style="stop-color:#ffffff;stop-opacity:.5"/>
-            <stop offset=".5" style="stop-color:#ffffff"/>
-            <stop offset="1" style="stop-color:#ffffff"/>
+            <stop offset="0" style="stop-color:#afdde9;stop-opacity:.5"/>
+            <stop offset=".5" style="stop-color:#afdde9"/>
+            <stop offset="1" style="stop-color:#afdde9"/>
         </linearGradient>
     </defs>
     <rect x="-135" y="-85" width="810" height="810" style="fill:#003746"/>
